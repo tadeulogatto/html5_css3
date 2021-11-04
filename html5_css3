@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tadeu Logatto</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <header> 
+        <img src="p1.jpg" alt="meu perfil">
+        <h1 id="title">Tadeu Logatto</h1>
+    </header>
+    <section>
+        <header>
+            <h2 class="subtitle">Posts</h2>
+        </header>
+        <article class="post">
+            <header> 
+                <h3 class="post_title">Post #1</h3>
+                <img src="p2.jpg">
+            </header>
+            <p>
+                <a href="https://www.ambev.com.br/marcas/cervejas/brahma/brahma-duplo-malte/">OK, e se não for Heinken, qual a receita?</a>
+                Heineken é uma cerveja lager Puro Malte, refrescante e de cor amarelo-dourado, produzida com ingredientes 100% naturais: 
+                água, malte e lúpulo. Durante o processo de fermentação da Heineken, a exclusiva Levedura A é responsável pelo sabor característico e bem equilibrado, 
+                com notas frutadas sutis
+            </p>
+        </article>
+    </section>
+    <footer>
+        <ul>
+            <li>
+                <a href="mailto:tadeulogatto@gmail.com">tadeulogatto@gmail.com</a>
+             </li>
+             <li>
+                 <a href="www.instagram.com/tadeeeeeu/">Instagram</a>
+             </li>
+             <li>
+                 <a href="www.github.com/tadeulogatto">GitHub</a>
+             </li>
+        </ul>
+    </footer>
+</body>
+</html>
